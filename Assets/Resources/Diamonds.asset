@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb6bee5db6678dc4d8003a7329081342, type: 3}
+  m_Name: Diamonds
+  m_EditorClassIdentifier: 
+  _suit: 1
+  _cards:
+  - {fileID: 21300000, guid: a6ae31f5b2d7e7d4783edc0b871974c9, type: 3}
+  - {fileID: 21300000, guid: a135a6ed400490348bf028c3e35d69e2, type: 3}
+  - {fileID: 21300000, guid: d9a59b0c50dfa984b8c92f633b792e24, type: 3}
+  - {fileID: 21300000, guid: c9c2c89ebffad0a4cb936af3f7d49166, type: 3}
+  - {fileID: 21300000, guid: 13e1ac2c14766b942a5cf9a85846c981, type: 3}
+  - {fileID: 21300000, guid: af84f816f298003498dbd2f37c162543, type: 3}
+  - {fileID: 21300000, guid: 0d1ce0697abeb4747b17bae62690256f, type: 3}
+  - {fileID: 21300000, guid: a944ef430c71ddd478603be4d165d4ac, type: 3}
+  - {fileID: 21300000, guid: 261ed619a71755645b7e6dc6f6cffe3d, type: 3}
+  - {fileID: 21300000, guid: c30dc94b551f81948824e4622f3723b2, type: 3}
+  - {fileID: 21300000, guid: 624ea6285fdd7dd4bb6536e88efa900b, type: 3}
+  - {fileID: 21300000, guid: 278100b4296a49a4bb3dfcfb1861d43a, type: 3}
+  - {fileID: 21300000, guid: 8b49303aeff36bf4eab59c960aacff00, type: 3}
